@@ -1,1 +1,1 @@
-web: node soni-plowfield.js
+web: node web.js
