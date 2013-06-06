@@ -1,4 +1,4 @@
-var Bot = require('../lib/index');
+var Bot = require('/lib/index');
 var AUTH = 'auth+live+';
 var ROOMID = '51b0c29ceb35c13c5e173da3';
 var TopBotName = 'will be set to the first dj used in the list';
