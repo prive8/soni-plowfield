@@ -18,7 +18,7 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "start": "./examples/chat_bot.js"
+    "start": "./soni-plowfield.js"
   },
   "engines": {
     "node": ">= v0.4.0"
